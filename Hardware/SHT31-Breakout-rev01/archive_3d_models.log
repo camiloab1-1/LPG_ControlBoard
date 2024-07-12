@@ -1,0 +1,46 @@
+12-15 18:04:18 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 220:Plugin executed on: 'linux'
+12-15 18:04:18 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 221:Plugin executed with python version: '3.11.5 (main, Nov 10 2011, 15:00:00) [GCC 13.2.0]'
+12-15 18:04:18 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 222:KiCad build version: 7.0.9
+12-15 18:04:18 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 223:Plugin version: 1.0.10
+
+12-15 18:04:18 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 228:Screen sizes: [wx.Size(2192, 1233)]
+12-15 18:04:18 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 235:Dialog size: wx.Size(213, 81)
+12-15 18:04:18 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 237:Char size: 17
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 24:Starting to archive 3D models
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: JP1
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: U1
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/STEP/Sensirion_Humidity_Sensors_Software_SHT3x_STEP_file/Sensirion_Humidity_SHT3x_STEP-file.STEP
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/STEP/Sensirion_Humidity_Sensors_Software_SHT3x_STEP_file/Sensirion_Humidity_SHT3x_STEP-file.STEP
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/Sensirion_Humidity_SHT3x_STEP-file.STEP
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/Sensirion_Humidity_SHT3x_STEP-file.STEP
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: H1
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: R5
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: /app/extensions/Library/3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: /app/extensions/Library/3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: R2
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: /app/extensions/Library/3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: /app/extensions/Library/3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: R1
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: /app/extensions/Library/3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: /app/extensions/Library/3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: C1
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: /app/extensions/Library/3dmodels/Capacitor_SMD.3dshapes/C_0402_1005Metric.step
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: /app/extensions/Library/3dmodels/Capacitor_SMD.3dshapes/C_0402_1005Metric.step
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: J3
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: /app/extensions/Library/3dmodels/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.step
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: /app/extensions/Library/3dmodels/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.step
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: R3
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: /app/extensions/Library/3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: /app/extensions/Library/3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D1
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: /app/extensions/Library/3dmodels/LED_SMD.3dshapes/LED_0402_1005Metric.step
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: /app/extensions/Library/3dmodels/LED_SMD.3dshapes/LED_0402_1005Metric.step
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: C2
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: /app/extensions/Library/3dmodels/Capacitor_SMD.3dshapes/C_0402_1005Metric.step
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: /app/extensions/Library/3dmodels/Capacitor_SMD.3dshapes/C_0402_1005Metric.step
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: J1
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: /app/extensions/Library/3dmodels/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x04_P2.54mm_Vertical.step
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: /app/extensions/Library/3dmodels/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x04_P2.54mm_Vertical.step
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: C3
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: /app/extensions/Library/3dmodels/Capacitor_SMD.3dshapes/C_0402_1005Metric.step
+12-15 18:04:58 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: /app/extensions/Library/3dmodels/Capacitor_SMD.3dshapes/C_0402_1005Metric.step

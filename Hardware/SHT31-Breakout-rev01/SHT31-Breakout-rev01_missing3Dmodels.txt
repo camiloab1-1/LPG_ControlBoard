@@ -1,0 +1,11 @@
+### Missing 3D models - created on 2023-12-15 17:57
+### Printed by checking_3D_models plugin
+Board file: /home/cab/Documents/TFM-UC3M/SHT31-Breakout-rev01/SHT31-Breakout-rev01.kicad_pcb
+3D missing models written to:
+/home/cab/Documents/TFM-UC3M/SHT31-Breakout-rev01/SHT31-Breakout-rev01_missing3Dmodels.txt
+-------
+('U1', '${KICAD6_3DMODEL_DIR}/Sensor_Humidity.3dshapes/Sensirion_DFN-8-1EP_2.5x2.5mm_P0.5mm_EP1.1x1.7mm.wrl')
+('U1', '/home/cab/Documents/TFM-UC3M/SHT31-Breakout-rev01/STEP/Sensirion_Humidity_Sensors_Software_SHT3x_STEP_file/Sensirion_Humidity_SHT3x_STEP-file.STEP')
+-------
+NUM of 3D missing models:2
+checked extensions ['.stp', '.step', '.stpZ']

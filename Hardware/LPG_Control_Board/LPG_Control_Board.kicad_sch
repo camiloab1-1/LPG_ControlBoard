@@ -1,0 +1,127 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "4d607605-b402-44ba-b6e3-9348bbf1f17c")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 35.56 36.83)
+		(size 92.71 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "07a97e4f-3d63-4965-9170-f8220a7bf150")
+		(property "Sheetname" "Main-schematic"
+			(at 35.56 36.1184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mainsch.kicad_sch"
+			(at 35.56 59.0046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "LPG_Control_Board"
+				(path "/4d607605-b402-44ba-b6e3-9348bbf1f17c"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 35.56 63.5)
+		(size 92.71 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "543f54f1-7da0-4d9e-8a0d-f8f26525122f")
+		(property "Sheetname" "ISO1540-Module"
+			(at 35.56 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "iso1540module.kicad_sch"
+			(at 35.56 85.6746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "LPG_Control_Board"
+				(path "/4d607605-b402-44ba-b6e3-9348bbf1f17c"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 35.56 90.17)
+		(size 92.71 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "83178f45-ee4e-4c45-b917-20b8e7f8c77a")
+		(property "Sheetname" "DRV8833-Module"
+			(at 35.56 89.4584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "drv8833module.kicad_sch"
+			(at 35.56 112.3446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "LPG_Control_Board"
+				(path "/4d607605-b402-44ba-b6e3-9348bbf1f17c"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

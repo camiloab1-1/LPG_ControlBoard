@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "seeduino_xiao")(type "KiCad")(uri "/home/cab/Documents/TFM-UC3M/Control-Board/Control_Board_Footprints/seeduino_xiao")(options "")(descr ""))
+)

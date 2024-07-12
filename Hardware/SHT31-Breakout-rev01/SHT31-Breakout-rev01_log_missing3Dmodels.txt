@@ -1,0 +1,3 @@
+Can not find model defined with enviroment variable:
+${KICAD6_3DMODEL_DIR}/Sensor_Humidity.3dshapes/Sensirion_DFN-8-1EP_2.5x2.5mm_P0.5mm_EP1.1x1.7mm.wrl
+[('U1', '${KICAD6_3DMODEL_DIR}/Sensor_Humidity.3dshapes/Sensirion_DFN-8-1EP_2.5x2.5mm_P0.5mm_EP1.1x1.7mm.wrl'), ('U1', '/home/cab/Documents/TFM-UC3M/SHT31-Breakout-rev01/STEP/Sensirion_Humidity_Sensors_Software_SHT3x_STEP_file/Sensirion_Humidity_SHT3x_STEP-file.STEP')]
